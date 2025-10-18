@@ -1,0 +1,15 @@
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\bin\Debug\net8.0\Midweek_Day.exe
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\bin\Debug\net8.0\Midweek_Day.deps.json
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\bin\Debug\net8.0\Midweek_Day.runtimeconfig.json
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\bin\Debug\net8.0\Midweek_Day.dll
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\bin\Debug\net8.0\Midweek_Day.pdb
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.AssemblyInfoInputs.cache
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.AssemblyInfo.cs
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.csproj.CoreCompileInputs.cache
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.sourcelink.json
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.dll
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\refint\Midweek_Day.dll
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.pdb
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\Midweek_Day.genruntimeconfig.cache
+C:\Proj2025\Programacion_Basica_csharp\Midweek_Day\obj\Debug\net8.0\ref\Midweek_Day.dll
