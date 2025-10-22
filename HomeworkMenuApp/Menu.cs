@@ -1,14 +1,13 @@
 using System;
-
+namespace HomeworkMenuApp;
 class Menu
 {
-    private Ejercicios ejercicios;
 
-    public Menu()
+    /*public Menu()
     {
-        ejercicios = new Ejercicios();
+        var ejercicios = new Ejercicios();
     }
-
+    */
     public void MostrarMenu()
     {
         while (true)
@@ -41,49 +40,64 @@ class Menu
             switch (opcion)
             {
                 case "1":
-                    ejercicios.Ejercicio1();
+                    var Ejercicio1 = new Ejercicio1();
+                    Ejercicio1.run();
                     break;
                 case "2":
-                    ejercicios.Ejercicio2();
+                    var Ejercicio2 = new Ejercicio2();
+                    Ejercicio2.run();
                     break;
                 case "3":
-                    ejercicios.Ejercicio3();
+                    var Ejercicio3 = new Ejercicio3();
+                    Ejercicio3.run();
                     break;
                 case "4":
-                    ejercicios.Ejercicio4();
+                    var Ejercicio4 = new Ejercicio4();
+                    Ejercicio4.run();
                     break;
                 case "5":
-                    ejercicios.Ejercicio5();
+                    var Ejercicio5 = new Ejercicio5();
+                    Ejercicio5.run();
                     break;
                 case "6":
-                    ejercicios.Ejercicio6();
+                    var Ejercicio6 = new Ejercicio6();
+                    Ejercicio6.run();
                     break;
                 case "7":
-                    ejercicios.Ejercicio7();
+                    var Ejercicio7 = new Ejercicio7();
+                    Ejercicio7.run();
                     break;
                 case "8":
-                    ejercicios.Ejercicio8();
+                    var Ejercicio8 = new Ejercicio8();
+                    Ejercicio8.run();
                     break;
                 case "9":
-                    ejercicios.Ejercicio9();
+                    var Ejercicio9 = new Ejercicio9();
+                    Ejercicio9.run();
                     break;
                 case "10":
-                    ejercicios.Ejercicio10();
+                    var Ejercicio10 = new Ejercicio10();
+                    Ejercicio10.run();
                     break;
                 case "11":
-                    ejercicios.Ejercicio11();
+                    var Ejercicio11 = new Ejercicio11();
+                    Ejercicio11.run();
                     break;
                 case "12":
-                    ejercicios.Ejercicio12();
+                    var Ejercicio12 = new Ejercicio12();
+                    Ejercicio12.run();
                     break;
                 case "13":
-                    ejercicios.Ejercicio13();
+                    var Ejercicio13 = new Ejercicio13();
+                    Ejercicio13.run();
                     break;
                 case "14":
-                    ejercicios.Ejercicio14();
+                    var Ejercicio14 = new Ejercicio14();
+                    Ejercicio14.run();
                     break;
                 case "15":
-                    ejercicios.Ejercicio15();
+                    var Ejercicio15 = new Ejercicio15();
+                    Ejercicio15.run();
                     break;
                 default:
                     Console.WriteLine("Opción no válida.");
